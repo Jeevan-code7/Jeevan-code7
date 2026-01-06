@@ -23,6 +23,7 @@ Backend:
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>  
 <img src="https://img.shields.io/badge/go-black?style=for-the-badge&logo=go">
 <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c++">
+
 Database:  
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
