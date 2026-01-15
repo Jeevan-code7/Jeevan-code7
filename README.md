@@ -1,6 +1,7 @@
-<h1 align="center">Hi there, I'm Jeevan Kate 👋</h1>
-<h3 align="center">Full-Stack Web Developer | Turning ideas into powerful digital experiences</h3>
-
+<div align=center>
+<!-- 	<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true"  width="700px"/> <br><br> -->
+	<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jeevan+%F0%9F%91%8B;Full+stack+developer;Problem+Solver; alt="Headline" />
+</div>
 ---
 
 🚀 **About Me**  
