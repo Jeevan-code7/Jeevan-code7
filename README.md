@@ -40,12 +40,6 @@ Database:
 - Integrate smooth animations & motion
 - Optimize for performance & scalability
 
-📊 **Most Used Languages**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashrma18&layout=compact&theme=tokyonight" />
-</p>
-
 📫 **Let’s Connect**  
 [📧 Email Me](mailto:jk29102023@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/jeevan-k-860512348/)
 
